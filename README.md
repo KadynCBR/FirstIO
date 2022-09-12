@@ -1,4 +1,7 @@
+[![C++ CI](https://github.com/KadynCBR/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/KadynCBR/FirstIO/actions/workflows/actions.yml)
+
 In this lab, we will practice getting input from the user as well as showing them output. We will also start using variables.
+
 
 The purpose of the program will be to allow the user to set an alarm so that it looks like:
 
